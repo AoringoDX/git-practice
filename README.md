@@ -1,5 +1,6 @@
 # git-practice
-ã“ã®ãƒªãƒã‚¸ãƒˆãƒªã¯Gitå‹•ç”»è¬›åº§ç”¨ã§ã™ï¼
-è‡ªåˆ†ã®ãƒªãƒã‚¸ãƒˆãƒªã§æ›´æ–°
-rebase-practiceãƒ–ãƒ©ãƒ³ãƒã§å¤‰æ›´(rebaseã‚³ãƒ³ãƒ•ãƒªã‚¯ãƒˆç”¨)
-rebase pullç”¨
+‚±‚ÌƒŠƒ|ƒWƒgƒŠ‚ÍGit“®‰æuÀ—p‚Å‚·D
+©•ª‚ÌƒŠƒ|ƒWƒgƒŠ‚ÅXV
+rebase-practiceƒuƒ‰ƒ“ƒ`‚Å•ÏX(rebaseƒRƒ“ƒtƒŠƒNƒg—p)
+rebase pull—p
+stash—ûK
